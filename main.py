@@ -8,7 +8,7 @@ from voice_of_the_doctor import convert_text_to_doctor_audio
 from voice_of_the_patient import transcribe_patient_voice
 
 
-APP_TITLE = "AI Skin Specialist"
+APP_TITLE = "Assistant IA Soins de Peaux"
 
 CSS = """
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
